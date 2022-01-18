@@ -7,4 +7,4 @@ usemathjax: true
 ---
 Status: In progress
 
-Test: $x = y^2$
+test: $$a^2 = b^2 + c^2$$ 
