@@ -5,7 +5,7 @@ date:   2022-01-19 21:00:00 -0800
 categories: blog nba
 usemathjax: true
 ---
-Status: In progress
+Status: In progress/Obsolete
 
 To be honest, I haven't really watched that many NBA games so far this season.
 I've gotten swept up in the Bulls hype, so I've spent most of my time watching
